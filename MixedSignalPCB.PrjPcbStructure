@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=Power.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=STM32F103_DEBUG.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=STM32F407.SchDoc|SheetNumber=4
