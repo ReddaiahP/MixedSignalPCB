@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YMEUVVRL
 
 [Document5]
-DocumentPath=..\..\..\Downloads\EsteemPCB+Library\EsteemPCB Library\Project Outputs for ESTEEMPCBLIB\ESTEEMPCBLIB.IntLib
+DocumentPath=depend\EsteemPCB+Library\EsteemPCB Library\Project Outputs for ESTEEMPCBLIB\ESTEEMPCBLIB.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
