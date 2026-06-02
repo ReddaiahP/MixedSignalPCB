@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UUKKAVFE
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=ESTEEMPCBLIB.SchLib
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [SearchPath1]
-Path=C:\Users\redda\OneDrive\Documents\GitHub\MixedSignalPCB\depend\EsteemPCB+Library\EsteemPCB Library\Project Outputs for ESTEEMPCBLIB\ESTEEMPCBLIB\*.*
+Path=C:\Users\Public\Documents\Altium\MixedSignalPCB\depend\EsteemPCB+Library\EsteemPCB Library\Project Outputs for ESTEEMPCBLIB\ESTEEMPCBLIB\*.*
 IncludeSubFolders=1
 
 [OutputGroup1]
