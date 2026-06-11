@@ -2,6 +2,7 @@ Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DAC.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Mic.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MotorDriver2.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MotorDriver.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F103_DEBUG.SchDoc|SheetNumber=3
