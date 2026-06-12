@@ -5,6 +5,7 @@ Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Mic.SchDoc|SheetNum
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MotorDriver2.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MotorDriver.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F103_DEBUG.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=STM32F407.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=UART.SchDoc|SheetNumber=6
