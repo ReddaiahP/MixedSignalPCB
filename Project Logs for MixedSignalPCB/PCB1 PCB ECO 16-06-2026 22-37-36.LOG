@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R3 Old Footprint=RES_753_TH_INDC New Footprint=RES_0805
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_753_TH_INDC"; UniqueID = "\FFMRXLWT" ("\FFMRXLWT")
+Change component parameters (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
