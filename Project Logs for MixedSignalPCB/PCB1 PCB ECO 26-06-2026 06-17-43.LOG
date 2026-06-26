@@ -1,0 +1,208 @@
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R17-2
+Removed Pin From Net: NetName=NetC43_2 Pin=R18-1
+Removed Pin From Net: NetName=mFAULT Pin=R18-2
+Removed Pin From Net: NetName=NetC43_2 Pin=R19-1
+Removed Pin From Net: NetName=mSNS Pin=R19-2
+Removed Pin From Net: NetName=NetMOTOR1_2 Pin=R22-1
+Removed Pin From Net: NetName=GND Pin=R22-2
+Removed Pin From Net: NetName=3.3V Pin=R23-2
+Removed Pin From Net: NetName=NetQ4_1 Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=mEN Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=NetQ5_1 Pin=R36-2
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=NetQ6_1 Pin=R37-2
+Removed Pin From Net: NetName=NetC76_2 Pin=R38-1
+Removed Pin From Net: NetName=mFAULT_2 Pin=R38-2
+Removed Pin From Net: NetName=NetC76_2 Pin=R39-1
+Removed Pin From Net: NetName=mSNS_2 Pin=R39-2
+Removed Pin From Net: NetName=NetMOTOR2_2 Pin=R42-1
+Removed Pin From Net: NetName=GND Pin=R42-2
+Removed Pin From Net: NetName=3V3 Pin=R43-2
+Removed Pin From Net: NetName=NetQ8_1 Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=R44-2
+Removed Pin From Net: NetName=mEN_2 Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R45-2
+Removed Member From Class: ClassName=MotorDriver Member=R16
+Removed Member From Class: ClassName=MotorDriver Member=R17
+Removed Member From Class: ClassName=MotorDriver Member=R18
+Removed Member From Class: ClassName=MotorDriver Member=R19
+Removed Member From Class: ClassName=MotorDriver Member=R22
+Removed Member From Class: ClassName=MotorDriver Member=R23
+Removed Member From Class: ClassName=MotorDriver Member=R24
+Removed Member From Class: ClassName=MotorDriver Member=R25
+Removed Member From Class: ClassName=MotorDriver2 Member=R36
+Removed Member From Class: ClassName=MotorDriver2 Member=R37
+Removed Member From Class: ClassName=MotorDriver2 Member=R38
+Removed Member From Class: ClassName=MotorDriver2 Member=R39
+Removed Member From Class: ClassName=MotorDriver2 Member=R42
+Removed Member From Class: ClassName=MotorDriver2 Member=R43
+Removed Member From Class: ClassName=MotorDriver2 Member=R44
+Removed Member From Class: ClassName=MotorDriver2 Member=R45
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=mFAULT Pin=R?-1
+Added Pin To Net: NetName=mFAULT_2 Pin=R?-1
+Added Pin To Net: NetName=mSNS Pin=R?-1
+Added Pin To Net: NetName=mSNS_2 Pin=R?-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=mEN Pin=R?-2
+Added Pin To Net: NetName=mEN_2 Pin=R?-2
+Added Pin To Net: NetName=NetC43_2 Pin=R?-2
+Added Pin To Net: NetName=NetC43_2 Pin=R?-2
+Added Pin To Net: NetName=NetC76_2 Pin=R?-2
+Added Pin To Net: NetName=NetC76_2 Pin=R?-2
+Added Pin To Net: NetName=NetMOTOR1_2 Pin=R?-2
+Added Pin To Net: NetName=NetMOTOR2_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U4-13
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R? 10K

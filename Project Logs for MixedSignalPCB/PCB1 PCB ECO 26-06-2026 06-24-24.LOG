@@ -1,0 +1,54 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=MotorDriver2 Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Added Component: Designator=R25(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RES_0805)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X1002FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=mEN Pin=R25-2
+Added Pin To Net: NetName=3V3 Pin=R43-1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR23_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=U9-13
+Added Net: Name=NetR43_2
+Added Member To Class: ClassName=MotorDriver Member=Component R16 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R17 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R18 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R19 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R22 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R23 10K
+Added Member To Class: ClassName=MotorDriver Member=Component R25 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R36 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R37 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R38 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R39 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R42 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R43 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R44 10K
+Added Member To Class: ClassName=MotorDriver2 Member=Component R45 10K
