@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=C61-2
+Removed Pin From Net: NetName=3V3 Pin=R31-1
+Removed Pin From Net: NetName=SDA Pin=R31-2
+Removed Pin From Net: NetName=3V3 Pin=R32-1
+Removed Pin From Net: NetName=SCL Pin=R32-2
+Removed Pin From Net: NetName=3V3 Pin=U7-33
+Removed Member From Class: ClassName=DAC Member=R31
+Removed Member From Class: ClassName=DAC Member=R32
+Added Component: Designator=SW4(SW_342_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "RS-282G05A3-SMRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_RESET Pin=SW4-1
+Added Pin To Net: NetName=3V3 Pin=SW4-2
+Added Member To Class: ClassName=ADC Member=Component SW4 TACTILE SWITCH
